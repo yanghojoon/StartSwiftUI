@@ -11,7 +11,7 @@ import SwiftUI
 struct PracticeSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView() // 화면에 보이는 주요한 영역
         }
     }
 }
